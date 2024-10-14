@@ -10,12 +10,12 @@ function openWindow(url){
 }
 
 function procreate(){
-		openWindow('open.html');
-		openWindow('open.html');
-		openWindow('open.html');
-		openWindow('open.html');
-		openWindow('open.html');
-		openWindow('open.html');
+		openWindow('open2.html');
+		openWindow('open2.html');
+		openWindow('open2.html');
+		openWindow('open2.html');
+		openWindow('open2.html');
+		openWindow('open2.html');
 		}
 
 function newXlt(){
